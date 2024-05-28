@@ -1,0 +1,13 @@
+img,id_name,price,currency
+app/static/0.jpg,Chocolatos,500,IDR
+app/static/1.jpg,air_minum_vit,500,IDR
+app/static/2.jpg,g_max_pisau,10000,IDR
+app/static/3.jpg,kecap_bango,10000,IDR
+app/static/4.webp,kopiko_kaleng,15000,IDR
+app/static/5.webp,minyak_telon,9000,IDR
+app/static/6.webp,nabati_kaleng,26000,IDR
+app/static/7.jpg,regal,500,IDR
+app/static/8.webp,susu_sachet,1000,IDR
+app/static/9.jpg,tictac,500,IDR
+app/static/10.jpg,tusuk_gigi,7000,IDR
+app/static/11.jpg,waffle,1000,IDR

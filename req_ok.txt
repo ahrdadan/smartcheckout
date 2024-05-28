@@ -1,0 +1,7 @@
+streamlit==1.33.0
+streamlit-webrtc==0.47.6
+stqdm==0.0.5
+st-pages==0.4.5
+ultralytics==8.2.13
+supervision==0.21.0rc1
+ffmpeg-python==0.2.0

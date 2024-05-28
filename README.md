@@ -1,4 +1,4 @@
-![test](/assets/logo200.svg)
+![test](/static/logo200.svg)
 
 # Welcome to Smartcheckout 👋
 
@@ -30,7 +30,7 @@ The app features a bunch of examples of what you can do with Streamlit. Jump to 
 
 <img src="https://user-images.githubusercontent.com/7164864/217936487-1017784e-68ec-4e0d-a7f6-6b97525ddf88.gif" alt="Streamlit Hello" width=500 href="none"></img>
 
-![test](assets/test-countdown-digital-text-02i8gj5kwdytks0y.webp)
+![test](static/test-countdown-digital-text-02i8gj5kwdytks0y.webp)
 
 ## Quickstart
 
