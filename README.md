@@ -38,7 +38,7 @@ $ docker run -d -p 8501:8501 ahrdadan/smartcheckout
 
 ## Demo App
 
-<img src="https://s12.gifyu.com/images/SYFiA.gif" alt="ShortDemo" border="0" />
+![Demo App](https://s12.gifyu.com/images/SYFiA.gif)
 
 ## License
 
