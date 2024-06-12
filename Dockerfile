@@ -8,8 +8,10 @@ WORKDIR /app
 COPY requirements.txt .
 
 # Instal dependensi yang diperlukan
-RUN apt-get update && apt-get install -y ffmpeg && \
-    pip install --no-cache-dir -r requirements.txt
+RUN apt-get update && apt-get install -y ffmpeg
+
+# Install requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
 # Salin seluruh isi direktori proyek ke dalam container
 COPY . .
